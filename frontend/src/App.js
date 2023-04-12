@@ -15,7 +15,7 @@ import Thanks from "./components/Thanks";
 import ipConfig from "./ipConfig.json";
 
 export const config = {
-  endpoint: `https://qkart-node-pranjal.herokuapp.com`,
+  endpoint: `https://qkart-backend-nklx.onrender.com/v1`,
 };
 
 export default function App(props) {
